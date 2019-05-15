@@ -1,1 +1,1 @@
-# cal
+# calculator usig python ttk
