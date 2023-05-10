@@ -1,2 +1,1 @@
-
-aasdadsasddas
+small-sized school projects
